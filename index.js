@@ -115,7 +115,7 @@ module.exports = {
         'react/no-did-update-set-state': ['error', 'allow-in-func'],
 
         // NEVER mutate `this.state` directly, treat it as if it were immutable
-        'react/no-direct-mutation-state': 'errora',
+        'react/no-direct-mutation-state': 'error',
 
         // isMounted is an anti-pattern, is not available when using ES6 classes
         // And it is on its way to being officially deprecated
