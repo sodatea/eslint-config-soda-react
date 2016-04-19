@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-soda-react",
+  "version": "1.0.0",
+  "description": "ESLint configurations for my personal react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodatea/eslint-config-soda-react.git"
+  },
+  "author": "Haoqun Jiang <sodazju+npm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sodatea/eslint-config-soda-react/issues"
+  },
+  "homepage": "https://github.com/sodatea/eslint-config-soda-react#readme",
+  "dependencies": {
+    "eslint": "^2.8.0",
+    "eslint-plugin-react": "^5.0.1"
+  },
+  "peerDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-plugin-react": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-soda": "^3.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
