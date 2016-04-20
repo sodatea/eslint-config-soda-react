@@ -86,7 +86,7 @@ module.exports = {
         'react/jsx-pascal-case': 'error',
 
         // Enforce props alphabetical sorting
-        'react/jsx-sort-props': ['warn', {
+        'react/jsx-sort-props': ['off', {
             ignoreCase: false,
             callbacksLast: true,    // callbacks must be listed after all other props
             shorthandFirst: true
