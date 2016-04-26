@@ -176,7 +176,7 @@ module.exports = {
         }],
 
         // Enforce propTypes declarations alphabetical sorting
-        'react/sort-prop-types': ['warn', {
+        'react/sort-prop-types': ['off', {
             ignoreCase: true,
             callbacksLast: true,
             requiredFirst: true
