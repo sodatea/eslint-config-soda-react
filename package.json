@@ -25,7 +25,7 @@
     "eslint-plugin-react": "^5.0.1"
   },
   "devDependencies": {
-    "eslint-config-soda": "^3.0.0"
+    "eslint-config-soda": "^3.1.2"
   },
   "files": [
     "index.js"
